@@ -1,0 +1,140 @@
+[
+    {
+        "@id": "2020-04-15 Wed 08:00Z"
+    },
+    {
+        "@id": "2020-04-15 Wed 14:21Z"
+    },
+    {
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_7": [
+            {
+                "@id": "_:b6"
+            }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_5": [
+            {
+                "@id": "_:b5"
+            }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_3": [
+            {
+                "@id": "_:b4"
+            },
+            {
+                "@id": "https://keybase.io/easye#"
+            }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_4": [
+            {
+                "@id": "_:b3"
+            }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_2": [
+            {
+                "@id": "_:b2"
+            }
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#_1": [
+            {
+                "@id": "_:b1"
+            }
+        ],
+        "@type": [
+            "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"
+        ],
+        "@id": "_:b0"
+    },
+    {
+        "@id": "_:b1"
+    },
+    {
+        "@id": "_:b2"
+    },
+    {
+        "http://www.w3.org/ns/auth/cert#exponent": [
+            {
+                "@value": 65537
+            }
+        ],
+        "http://www.w3.org/ns/auth/cert#modulus": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#hexBinary",
+                "@value": "00cb24ed85d64d794b69c701c186acc059501e856000f661c93204d8380e07191c5c8b368d2ac32a428acb970398664368dc2a867320220f755e99ca2eecdae62e8d15fb58e1b76ae59cb7ace8838394d59e7250b449176e51a494951a1c366c6217d8768d682dde78dd4d55e613f8839cf275d4c8403743e7862601f3c49a6366e12bb8f498262c3c77de19bce40b32f89ae62c3780f5b6275be337e2b3153ae2ba72a9975ae71ab724649497066b660fcf774b7543d980952d2e8586200eda4158b014e75465d91ecf93efc7ac170c11fc7246fc6ded79c37780000ac4e079f671fd4f207ad770809e0e2d7b0ef5493befe73544d8e1be3dddb52455c61391a1"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "made on 23 November 2011 on my laptop"
+            }
+        ],
+        "@type": [
+            "http://www.w3.org/ns/auth/cert#RSAPublicKey"
+        ],
+        "@id": "_:b3"
+    },
+    {
+        "@id": "_:b4"
+    },
+    {
+        "@id": "_:b5"
+    },
+    {
+        "@id": "_:b6"
+    },
+    {
+        "https://rdf.not.org/#revised": [
+            {
+                "@id": "2020-04-15 Wed 14:21Z"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
+            {
+                "@id": "https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew"
+            }
+        ],
+        "http://purl.org/dc/elements/1.1/contributor": [
+            {
+                "@id": "_:b0"
+            }
+        ],
+        "https://rdf.not.org/#terminated": [
+            {
+                "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#_0"
+            }
+        ],
+        "https://rdf.not.org/#created": [
+            {
+                "@id": "2020-04-15 Wed 08:00Z"
+            }
+        ],
+        "https://rdf.interspace.chat/#hosted-as": [
+            {
+                "@id": "https://portal.interspace.chat/parallel-society/"
+            }
+        ],
+        "http://purl.org/dc/elements/1.1/created": [
+            {
+                "@value": "15-APR-2020"
+            }
+        ],
+        "@id": "http://njh.me/"
+    },
+    {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"
+    },
+    {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#_0"
+    },
+    {
+        "@id": "http://www.w3.org/ns/auth/cert#RSAPublicKey"
+    },
+    {
+        "@id": "https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew"
+    },
+    {
+        "@id": "https://keybase.io/easye#"
+    },
+    {
+        "@id": "https://portal.interspace.chat/parallel-society/"
+    }
+]
