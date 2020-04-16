@@ -1,11 +1,5 @@
 [
     {
-        "@id": "2020-04-15 Wed 08:00Z"
-    },
-    {
-        "@id": "2020-04-15 Wed 14:21Z"
-    },
-    {
         "http://www.w3.org/1999/02/22-rdf-syntax-ns#_7": [
             {
                 "@id": "_:b6"
@@ -82,9 +76,27 @@
         "@id": "_:b6"
     },
     {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"
+    },
+    {
+        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#_0"
+    },
+    {
+        "@id": "http://www.w3.org/ns/auth/cert#RSAPublicKey"
+    },
+    {
+        "@id": "https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew"
+    },
+    {
+        "@id": "https://keybase.io/easye#"
+    },
+    {
+        "@id": "https://portal.interspace.chat/parallel-society/"
+    },
+    {
         "https://rdf.not.org/#revised": [
             {
-                "@id": "2020-04-15 Wed 14:21Z"
+                "@value": "<2020-04-15 Wed 14:21Z>"
             }
         ],
         "http://www.w3.org/2000/01/rdf-schema#seeAlso": [
@@ -104,7 +116,7 @@
         ],
         "https://rdf.not.org/#created": [
             {
-                "@id": "2020-04-15 Wed 08:00Z"
+                "@value": "<2020-04-15 Wed 08:00Z>"
             }
         ],
         "https://rdf.interspace.chat/#hosted-as": [
@@ -117,24 +129,6 @@
                 "@value": "15-APR-2020"
             }
         ],
-        "@id": "http://njh.me/"
-    },
-    {
-        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"
-    },
-    {
-        "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#_0"
-    },
-    {
-        "@id": "http://www.w3.org/ns/auth/cert#RSAPublicKey"
-    },
-    {
-        "@id": "https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew"
-    },
-    {
-        "@id": "https://keybase.io/easye#"
-    },
-    {
-        "@id": "https://portal.interspace.chat/parallel-society/"
+        "@id": "https://rdf.parallele.at/"
     }
 ]
