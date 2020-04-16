@@ -1,10 +1,11 @@
 * Test
-```common-lisp
+#+BEGIN_SRC lisp
 (ql:quickload :covid/n3)
 (covid.not.org::index)
-```
+#+END_SRC
+
 * Result
-```n3
+#+BEGIN_SRC n3
 "@prefix rdf:         <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs:        <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd:         <http://www.w3.org/2001/XMLSchema#> .
@@ -44,4 +45,5 @@
   rdfs:seeAlso <https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew> ;
   :revised <2020-04-15 Wed 14:21Z> .
 "
-```
+#+END_SRC
+
