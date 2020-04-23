@@ -1,10 +1,16 @@
-<https://rdf.parallele.at/> <http://purl.org/dc/elements/1.1/contributor> _:b0 .
-<https://rdf.parallele.at/> <http://purl.org/dc/elements/1.1/created> "15-APR-2020" .
-<https://rdf.parallele.at/> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew> .
-<https://rdf.parallele.at/> <https://rdf.interspace.chat/#hosted-as> <https://portal.interspace.chat/parallel-society/> .
-<https://rdf.parallele.at/> <https://rdf.not.org/#created> "<2020-04-15 Wed 08:00Z>" .
-<https://rdf.parallele.at/> <https://rdf.not.org/#revised> "<2020-04-15 Wed 14:21Z>" .
-<https://rdf.parallele.at/> <https://rdf.not.org/#terminated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_0> .
+<https://arxiv.org/abs/2004.04059> <http://www.w3.org/2000/01/rdf-schema#comment> "One of the first research papers to frame the terrain of discussion." .
+<https://github.com/Co-Epi> <http://www.w3.org/2000/01/rdf-schema#comment> "\r\nCoEpi is a privacy-first system for anonymous Bluetooth-based contact\r\ntracing / exposure matching based on voluntary symptom sharing and/or\r\nconfirmed COVID-19 test results. Communities of close contacts can\r\nbegin protecting themselves with CoEpi immediately; there is no scale\r\nrequired to achieve benefit to closed user groups.\r\n" .
+<https://github.com/DP-3T/documents> <http://www.w3.org/2000/01/rdf-schema#comment> "\r\nMajor European research institution initiative (École Polytechnique\r\nFédérale de Lausanne; ETH Zurich; University College London; TU\r\nDelft; et. al.\r\n" .
+<https://github.com/TracingWithPrivacy/paper> <http://www.w3.org/2000/01/rdf-schema#comment> "\r\nProposal from the digital underground from the TAZ0 cypto-anarchist\r\ncollective in Berlin with @TheRealSmuggler and @TheRealFrankBraun.\r\n\r\nInvolves creating a global mixnet to obsfugate ip[46] traffic. \r\n" .
+<https://github.com/TracingWithPrivacy/paper> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://github.com/TracingWithPrivacy/code> .
+<https://pact.mit.edu/> <http://www.w3.org/2000/01/rdf-schema#comment> "\r\nOur team at MIT, working with partners from around the world, has\r\ndeveloped a system for identifying people at risk of infecting\r\nCOVID-19, by using the Bluetooth signals that our cell phones send\r\neach other. Privacy is a bedrock value so our system can notify\r\nindividuals of potential contacts without revealing any private\r\ninformation to other individuals, the government, health care\r\nproviders, or cell service providers.\r\n" .
+<https://rdf.not.org> <http://purl.org/dc/elements/1.1/contributor> _:b0 .
+<https://rdf.not.org> <http://purl.org/dc/elements/1.1/created> "15-APR-2020" .
+<https://rdf.not.org> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew> .
+<https://rdf.not.org> <https://rdf.interspace.chat/#hosted-as> <https://portal.interspace.chat/parallel-society/> .
+<https://rdf.not.org> <https://rdf.not.org/#created> "<2020-04-15 Wed 08:00Z>" .
+<https://rdf.not.org> <https://rdf.not.org/#revised> "<2020-04-23 Thu 08:31>" .
+<https://rdf.not.org> <https://rdf.not.org/#terminated> <http://www.w3.org/1999/02/22-rdf-syntax-ns#_0> .
 _:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#_1> _:b1 .
 _:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#_2> _:b2 .
 _:b0 <http://www.w3.org/1999/02/22-rdf-syntax-ns#_3> <https://keybase.io/easye#> .

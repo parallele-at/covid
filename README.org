@@ -1,5 +1,3 @@
-
-
 * Test
 #+BEGIN_SRC lisp
 (ql:quickload :covid/n3)
@@ -9,6 +7,12 @@
 * Result
 
 <https://raw.githubusercontent.com/parallele-at/covid/master/eg/covid.n3>
+
+* Colophon
+#+BEGIN_EXAMPLE
+Revised: <2020-04-23 Thu 08:31>
+#+END_EXAMPLE
+
 
 
 

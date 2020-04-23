@@ -33,6 +33,45 @@
 
   ] .
 
+<https://arxiv.org/abs/2004.04059>
+  rdfs:comment "One of the first research papers to frame the terrain of discussion." .
+
+<https://github.com/TracingWithPrivacy/paper>
+  rdfs:seeAlso <https://github.com/TracingWithPrivacy/code> ;
+  rdfs:comment """
+Proposal from the digital underground from the TAZ0 cypto-anarchist
+collective in Berlin with @TheRealSmuggler and @TheRealFrankBraun.
+
+Involves creating a global mixnet to obsfugate ip[46] traffic. 
+""" .
+
+<https://github.com/Co-Epi>
+  rdfs:comment """
+CoEpi is a privacy-first system for anonymous Bluetooth-based contact
+tracing / exposure matching based on voluntary symptom sharing and/or
+confirmed COVID-19 test results. Communities of close contacts can
+begin protecting themselves with CoEpi immediately; there is no scale
+required to achieve benefit to closed user groups.
+""" .
+
+<https://pact.mit.edu/> 
+  rdfs:comment """
+Our team at MIT, working with partners from around the world, has
+developed a system for identifying people at risk of infecting
+COVID-19, by using the Bluetooth signals that our cell phones send
+each other. Privacy is a bedrock value so our system can notify
+individuals of potential contacts without revealing any private
+information to other individuals, the government, health care
+providers, or cell service providers.
+""" .
+
+<https://github.com/DP-3T/documents> 
+  rdfs:comment """
+Major European research institution initiative (École Polytechnique
+Fédérale de Lausanne; ETH Zurich; University College London; TU
+Delft; et. al.
+""" .
+ 
 <> 
   rdfs:seeAlso <https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew> ;
-  :revised "<2020-04-15 Wed 14:21Z>" .
+  :revised "<2020-04-23 Thu 08:31>" .
