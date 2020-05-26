@@ -71,6 +71,19 @@ Major European research institution initiative (École Polytechnique
 Fédérale de Lausanne; ETH Zurich; University College London; TU
 Delft; et. al.
 """ .
+
+<https://www.washingtonpost.com/graphics/2020/national/coronavirus-us-cases-deaths/?itid=hp_hp-top-table-main_web-gfx-death-tracker%3Ahomepage%2Fstory-ans>
+  rdfs:comment """ 
+
+Are the periodic (~7 day) spikes of mortality in @TheWashingtonPost's
+reported US deaths statistically "real" or are they artifacts of
+reporting?
+
+N.b. Need use Brave with Tor to get annoymous access to statistics.  
+
+TODO have a public web site proxy @TorNetwork requests in an IFRAME.
+
+"""" .
  
 <> 
   rdfs:seeAlso <https://hackmd.io/e4_P-Vr-S4mzfeBLjqDGew> ;
